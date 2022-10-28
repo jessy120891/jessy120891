@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**jessy120891/jessy120891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA/QC Analyst Software
+#### JESSICA ARROYO MALVAREZ 
+#### Vancouver, BC Canada
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💬 Feel free to ask me about whatever you want, you can find me on <a  target="_blank" href="https://www.linkedin.com/in/jessica-arroyo/?locale=en_US">LinkedIn</a>
+
+### TECHNOLOGIES & TOOLS
+
+
+![](https://img.shields.io/badge/Agile_Methodology-SCRUM-yellow) ![](https://img.shields.io/badge/Testing-Mobile-yellow) ![](https://img.shields.io/badge/Testing-Funtional-yellow)
+![](https://img.shields.io/badge/Tools-Postman-red) ![](https://img.shields.io/badge/Tools-Jira-red) ![](https://img.shields.io/badge/Tools-Test_Link-red) ![](https://img.shields.io/badge/Tools-Test_manager-red) ![](https://img.shields.io/badge/Tools-Azure-red) ![](https://img.shields.io/badge/Tools-Lambda-red)
+![](https://img.shields.io/badge/API/REST-Postman-green) ![](https://img.shields.io/badge/API/REST-Scripts-green)
+![](https://img.shields.io/badge/DB-MySQL-blue) ![](https://img.shields.io/badge/DB-PostgreSQL-blue) ![](https://img.shields.io/badge/DB-CosmoDB-blue) 
