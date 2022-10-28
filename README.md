@@ -11,6 +11,6 @@
 
 
 ![](https://img.shields.io/badge/Agile_Methodology-SCRUM-yellow) ![](https://img.shields.io/badge/Testing-Mobile-yellow) ![](https://img.shields.io/badge/Testing-Funtional-yellow)
-![](https://img.shields.io/badge/Tools-Postman-red) ![](https://img.shields.io/badge/Tools-Jira-red) ![](https://img.shields.io/badge/Tools-Test_Link-red) ![](https://img.shields.io/badge/Tools-Test_manager-red) ![](https://img.shields.io/badge/Tools-Azure-red) ![](https://img.shields.io/badge/Tools-Lambda-red)
+![](https://img.shields.io/badge/Tools-Postman-red) ![](https://img.shields.io/badge/Tools-Jira-red) ![](https://img.shields.io/badge/Tools-Test_Link-red) ![](https://img.shields.io/badge/Tools-Test_Manager-red) ![](https://img.shields.io/badge/Tools-Azure-red) ![](https://img.shields.io/badge/Tools-Lambda-red)
 ![](https://img.shields.io/badge/API/REST-Postman-green) ![](https://img.shields.io/badge/API/REST-Scripts-green)
 ![](https://img.shields.io/badge/DB-MySQL-blue) ![](https://img.shields.io/badge/DB-PostgreSQL-blue) ![](https://img.shields.io/badge/DB-CosmoDB-blue) 
